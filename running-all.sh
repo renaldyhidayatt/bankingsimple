@@ -1,0 +1,1 @@
+bash ./banking/run.sh & bash ./bankingauth/run.sh
